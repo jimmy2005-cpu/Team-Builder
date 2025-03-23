@@ -1,0 +1,8 @@
+i: qs(".lttr--I"),
+l: qs(".lttr--L"),
+o: qs(".lttr--O"),
+v: qs(".lttr--V"),
+e: qs(".lttr--E"),
+y: qs(".lttr--Y"),
+o2: qs(".lttr--O2"),
+u: qs(".lttr--U"),
