@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Feliz Cumpleaños Mi Amor</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #fce4ec; /* Un fondo rosa suave */
+            font-family: sans-serif;
+        }
+        h1 {
+            color: #e91e63; /* Un color rosa más intenso para el texto */
+            font-size: 3em;
+            margin-bottom: 20px;
+        }
+        img {
+            max-width: 300px;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Feliz cumpleaños mi amor</h1>
+    <img src="URL_DE_LA_IMAGEN_1" alt="Ilustración de amor 1">
+    <img src="URL_DE_LA_IMAGEN_2" alt="Ilustración de amor 2">
+</body>
+</html>
+
