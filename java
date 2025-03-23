@@ -6,3 +6,4 @@ gsap.to([cordWrapper, ribbon], {
     ribbon.style.display = "none";
   }
 });
+mvn test
